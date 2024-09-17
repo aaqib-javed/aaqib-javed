@@ -1,6 +1,6 @@
-### Hi there 👋 \
+### Hi there 👋 
 
-Aaqib is a disciplined & passionate developer, armed with 6+ years of awesome experience in UI Development, always hungry for learning new technologies & skills and to take on challenges. \
+Aaqib is a disciplined & passionate developer, armed with 6+ years of awesome experience in UI Development, always hungry for learning new technologies & skills and to take on challenges. 
 
 ✓   Proficient in HTML5, CSS3, JavaScript, jQuery \
 ✓   Experience in Next Js and React JS \
@@ -20,6 +20,6 @@ Aaqib is a disciplined & passionate developer, armed with 6+ years of awesome ex
 ✓   Experience in git, GitHub, GitLab, and bitbucket for version control \
 ✓   Experience with webpack, gulp, npm, yarn, CLI commands, packages, etc. \
 ✓   Experience in agile methodology and Jira \
-✓   A team player and flexible to work as a team or individual \
+✓   A team player and flexible to work as a team or individual 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aaqib-javed&theme=dark)](https://git.io/streak-stats)
