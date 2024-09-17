@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 \
 
-Aaqib is a disciplined & passionate developer, armed with 6+ years of awesome experience in UI Development, always hungry for learning new technologies & skills and to take on challenges.
+Aaqib is a disciplined & passionate developer, armed with 6+ years of awesome experience in UI Development, always hungry for learning new technologies & skills and to take on challenges. \
 
 ✓   Proficient in HTML5, CSS3, JavaScript, jQuery \
 ✓   Experience in Next Js and React JS \
